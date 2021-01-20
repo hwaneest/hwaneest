@@ -10,6 +10,11 @@
 
  - 🌱 I’m currently working as a Data Analyst at <a href="https://rocketyourcareer.usa.coupang.com/" target="_blank">Coupang</a>.
  - 🌱 I'm also co-author of <a href="https://pseudo-lab.github.io/Tutorial-Book/index.html" target="_blank">Deep Learning Tutorials with PyTorch</a>.
+
+#### Interest
+ - Customer Analytics : LTV, ROAS, AB-Testing, Funnel Analysis, Regressions, Visualization
+ - People Analytics : Human Resource Data Analytics, Cost Cutting, Employee Placement Optimization
+ - Social Contribution : Equality of Educational Opportunity, Mentoring, Digital Gap, Donation
  
 <!--
 
