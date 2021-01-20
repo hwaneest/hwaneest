@@ -8,7 +8,6 @@
 
 </div>
 
-<h3> Intro. </h3>
  - 🌱 I’m currently working as a Data Analyst at <a href="https://rocketyourcareer.usa.coupang.com/" target="_blank">Coupang</a>.
  - 🌱 I'm also co-author of <a href="https://pseudo-lab.github.io/Tutorial-Book/index.html" target="_blank">Deep Learning Tutorials with PyTorch</a>.
 
