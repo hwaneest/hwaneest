@@ -8,9 +8,10 @@
 
 </div>
 
- - Data Analyst at <a href="https://rocketyourcareer.usa.coupang.com/" target="_blank">Coupang</a>
- - Co-author of <a href="https://pseudo-lab.github.io/Tutorial-Book/index.html" target="_blank">Deep Learning Tutorials with PyTorch</a>
+ - 🌱 I’m currently working as a Data Analyst at <a href="https://rocketyourcareer.usa.coupang.com/" target="_blank">Coupang</a>, <a href="https://www.cnbc.com/2020/06/16/coupang-disruptor-50.html" target="_blank">one</a> of the 2020 CNBC disruptor 50.
+ - 🌱 I'm also co-author of <a href="https://pseudo-lab.github.io/Tutorial-Book/index.html" target="_blank">Deep Learning Tutorials with PyTorch</a>.
 
+<!--
 
 <h3> Github Statistics </h3>
 
@@ -20,6 +21,7 @@
 
 </div>
 
+-->
 
 <!--
 **hwaneest/hwaneest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
