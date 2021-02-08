@@ -15,7 +15,7 @@
 ### Interest 
  - 👋 Customer Analytics : LTV, ROAS, AB-Testing, Funnel Analysis, Regressions, Visualization
  - 👋 HR Analytics : People Analytics, Workforce Analytics, HR Cost Cutting, HR Optimization
- - 👋 Social Contribution : Educational Opportunity, Social well-being, Digital Gap, Donation
+ - 👋 Social Contribution : Equal Opportunity, Social well-being, Education, Talent Donation
  
 <!--
 
