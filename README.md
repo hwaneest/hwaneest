@@ -12,9 +12,9 @@
 - 🌱 I like to explain things through data and enjoy sharing data storytellings with others.
 - 🌱 I'm also co-author of <a href="https://pseudo-lab.github.io/Tutorial-Book/index.html" target="_blank">Deep Learning Tutorials with PyTorch</a>.
 
-### Interest 
- - 👋 Customer Analytics : LTV, ROAS, AB-Testing, Funnel Analysis, Regressions, Visualization
- - 👋 HR Analytics : People Analytics, Workforce Analytics, HR Cost Cutting, HR Optimization
+### Interests 
+ - 👋 Customer Analytics : LTV, ROAS, Pattenrs, Demography, AB-Testing, Funnel/Cohort Analysis
+ - 👋 HR Analytics : People/Workforce Analytics, HR using AI/ML, HR Cost Cutting, HR Optimization
  - 👋 Social Contribution : Equal Opportunity, Social well-being, Education, Talent Donation
  
 <!--
