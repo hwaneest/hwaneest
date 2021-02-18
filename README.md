@@ -9,7 +9,6 @@
 </div>
 
 - 🌱 I’m currently working as a Data Analyst at <a href="https://www.aboutcoupang.com/en/" target="_blank">Coupang</a>.
-- 🌱 I like to explain things through data and enjoy sharing data storytellings with others.
 - 🌱 I'm also co-author of <a href="https://pseudo-lab.github.io/Tutorial-Book/index.html" target="_blank">Deep Learning Tutorials with PyTorch</a>.
 
 ### Interests 
