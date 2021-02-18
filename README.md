@@ -10,6 +10,7 @@
 
 - 🌱 I’m currently working as a Data Analyst at <a href="https://www.aboutcoupang.com/en/" target="_blank">Coupang</a>.
 - 🌱 I'm also co-author of <a href="https://pseudo-lab.github.io/Tutorial-Book/index.html" target="_blank">Deep Learning Tutorials with PyTorch</a>.
+- 🌱 I sometimes give lectures and speeches about Data Analytics to unspecified persons such as students or mentees.
 
 ### Interests 
  - 👋 Customer Analytics : LTV, ROAS, Pattenrs, Demography, AB-Testing, Funnel/Cohort Analysis
