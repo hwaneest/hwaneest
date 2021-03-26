@@ -14,7 +14,7 @@
 
 ### Interests 
  - 👋 Customer Analytics : LTV, ROAS, Pattenrs, Demography, AB-Testing, Funnel/Cohort Analysis
- - 👋 HR Analytics : People/Workforce Analytics, HR using AI/ML, HR Cost Cutting, HR Optimization
+ - 👋 People Analytics : HRA, Workforce, Employee, Generation, HR Cost Cutting, Optimization, HR using AI/ML
  - 👋 Social Contribution : Equal Opportunity, Social well-being, Education, Talent Donation
  
 <!--
