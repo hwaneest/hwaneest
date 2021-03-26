@@ -9,12 +9,12 @@
 </div>
 
 - 🌱 I’m currently working as a Data Analyst at <a href="https://www.aboutcoupang.com/en/" target="_blank">Coupang</a>, an e-commerce company in South Korea.
-- 🌱 I'm also co-author of <a href="https://pseudo-lab.github.io/Tutorial-Book/index.html" target="_blank">Deep Learning Tutorials with PyTorch</a> from <a href="https://pseudo-lab.com/" target="_blank">pseudo-lab</a> in South Korea.
 - 🌱 I give lectures/speeches about Data Analytics to unspecified persons such as students or mentees.
+- 🌱 I'm also co-author of <a href="https://pseudo-lab.github.io/Tutorial-Book/index.html" target="_blank">Deep Learning Tutorials with PyTorch</a> from <a href="https://pseudo-lab.com/" target="_blank">pseudo-lab</a> in South Korea.
 
 ### Interests 
  - 👋 Customer Analytics : LTV, ROAS, Pattenrs, Demography, AB-Testing, Funnel/Cohort Analysis
- - 👋 People Analytics : HRA, Workforce, Employee, Generation, HR Cost Cutting, Optimization, HR using AI/ML
+ - 👋 People Analytics : HR Analytics, Workforce, Generation Gap, HR Cost Cutting, Optimization, HR using AI/ML
  - 👋 Social Contribution : Equal Opportunity, Social well-being, Education, Talent Donation
  
 <!--
