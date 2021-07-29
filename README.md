@@ -8,7 +8,7 @@
 
 </div> 
 
- - 🌱 I am in Master course and now studying in Singapore.  
+ - 🌱 I am now studying Data Science in Singapore.
  - 🌱 I worked for <a href="https://www.aboutcoupang.com/en/" target="_blank">Coupang</a>, an e-commerce company in South Korea as a Data Analyst.  
  - 🌱 I give <a href="https://github.com/hwaneest/Lectures/blob/master/README.md" target="_blank">lecture</a>s/speeches about Data Analytics to unspecified persons such as students or public.  
 
