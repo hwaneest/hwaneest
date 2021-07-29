@@ -7,10 +7,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwaneest&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
-
-- 🌱 I’m currently working as a Data Analyst at <a href="https://www.aboutcoupang.com/en/" target="_blank">Coupang</a>, an e-commerce company in South Korea.
+- 🌱 I am in Master course and now studying in Singapore.
+- 🌱 I worked for <a href="https://www.aboutcoupang.com/en/" target="_blank">Coupang</a>, an e-commerce company in South Korea as a Data Analyst.
 - 🌱 I give <a href="https://github.com/hwaneest/Lectures/blob/master/README.md" target="_blank">lecture</a>s/speeches about Data Analytics to unspecified persons such as students or public.
-- 🌱 I'm also co-author of <a href="https://pseudo-lab.github.io/Tutorial-Book/index.html" target="_blank">Deep Learning Tutorials with PyTorch</a> from <a href="https://pseudo-lab.com/" target="_blank">pseudo-lab</a> in South Korea.
 
 ### Interests 
  - 👋 Customer Analytics : LTV, ROAS, Pattenrs, Demography, AB-Testing, Funnel/Cohort Analysis
