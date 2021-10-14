@@ -13,8 +13,8 @@
  - 🌱 I give <a href="https://github.com/hwaneest/Lectures/blob/master/README.md" target="_blank">lecture</a>s/speeches about Data Analytics to unspecified persons such as students or public.  
 
 ### Interests 
- - 👋 Customer Analytics : LTV, ROAS, Pattenrs, Demography, AB-Testing, Funnel/Cohort Analysis
  - 👋 People Analytics : HR Analytics, Workforce, Generations, HR Cost Cutting, Optimization, HR using AI/ML
+ - 👋 Customer Analytics : LTV, ROAS, Pattenrs, Demography, AB-Testing, Funnel/Cohort Analysis
  - 👋 Social Contribution : Equal Opportunity, Social well-being, Education, Talent Donation
  
 <!--
