@@ -1,4 +1,4 @@
-## Data Enthusiast, Data Scientist, Lecturer 😄
+## Data Enthusiast, People Scientist, Lecturer 😄
 
 <div align=right>
 
