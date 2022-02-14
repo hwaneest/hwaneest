@@ -10,7 +10,7 @@
 
  - 🌱 I am now studying Data Science in <a href="https://www.nus.edu.sg/" target="_blank">National University of Singapore</a>. (<a href="https://msba.nus.edu.sg/" target="_blank">MSc. in Business Analytics</a>)
  - 🌱 I worked for <a href="https://www.aboutcoupang.com/en/" target="_blank">Coupang</a>, an e-commerce company in South Korea as a Data Analyst.  
- - 🌱 I give <a href="https://github.com/hwaneest/Lectures/blob/master/README.md" target="_blank">lecture</a>s/speeches about Data Analytics to unspecified persons such as students or public.  
+ - 🌱 I give <a href="https://hwaneest.github.io/lecture/" target="_blank">lecture</a>s/speeches about Data Analytics to unspecified persons such as students or public.  
 
 ### Interests 
  - 👋 People Analytics : HR Analytics, Workforce, Generations, HR Cost Cutting, Optimization, HR using AI/ML
