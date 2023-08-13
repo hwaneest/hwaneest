@@ -8,9 +8,12 @@
 
 </div> 
 
- - 🌱 I am now studying Data Science in <a href="https://www.nus.edu.sg/" target="_blank">National University of Singapore</a>. (<a href="https://msba.nus.edu.sg/" target="_blank">MSc. in Business Analytics</a>)
- - 🌱 I worked for <a href="https://www.aboutcoupang.com/en/" target="_blank">Coupang</a>, an e-commerce company in South Korea as a Data Analyst.  
- - 🌱 I give <a href="https://hwaneest.github.io/lecture/" target="_blank">lecture</a>s/speeches about Data Analytics to unspecified persons such as students or public.  
+ - 🌱 I'm a People Analytics Specialist! I analyze data related to HR matters - Organizational Culture, HRM, HRD, etc.
+ - 🌱 I'm an author! I write about Data Analytics - books, articles, etc.
+ - 🌱 I do lectures! I give <a href="https://hwaneest.github.io/lecture/" target="_blank">lecture</a>s/speeches about Data Analytics to unspecified persons such as students or public.  
+ - 🌱 (Industry Experience) Data Analyst within e-Commerce, game, and manufacturing industry - ex-Coupang, ex-UPS
+ - 🌱 (Academic Achievement) BSc.(Industrial Engineering) @ <a href="https://en.seoultech.ac.kr/" target="_blank">Seoul National Uniersity of Sicence & Technology</a>
+ - 🌱 (Academic Achievement) MSc.(<a href="https://msba.nus.edu.sg/" target="_blank">Business Analytics</a>) @ <a href="https://www.nus.edu.sg/" target="_blank">National University of Singapore</a>
 
 ### Interests 
  - 👋 People Analytics : HR Analytics, Workforce, Generations, HR Cost Cutting, Optimization, HR using AI/ML
